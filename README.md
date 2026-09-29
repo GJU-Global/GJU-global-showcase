@@ -6,9 +6,6 @@
 
 The project explores how students can more easily discover opportunities, prepare for studying abroad, access relevant resources, learn from other students' experiences, and stay connected throughout their international journey.
 
-> **Student Project**  
-> GJU Global is a student-developed project and is not an official digital platform of the German Jordanian University.
-
 ---
 
 ## The Problem
